@@ -1,0 +1,20 @@
+needs :
+
+express for web
+DB
+DB saving
+main Auth
+
+
+collumns for mangas
+- name
+- type
+- image (only one)
+- list of mangas already got (number)
+
+collumns for anime
+- name
+- type
+- image (only one)
+- url
+- list of ep already shown (number)

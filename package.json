@@ -1,0 +1,24 @@
+{
+  "name": "mangas_tracking_list",
+  "version": "1.0.0",
+  "description": "Simple web app to track the mangas or anime you're reading/watching",
+  "main": "src/main.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-Chapo0133/mangas_tracking_list.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/El-Chapo0133/mangas_tracking_list/issues"
+  },
+  "homepage": "https://github.com/El-Chapo0133/mangas_tracking_list#readme"
+}
